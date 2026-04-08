@@ -1,4 +1,4 @@
-# HealthCare-Data-Anaalysis
+# HealthCare-Data-Analysis
 
 ### **Project Description**
 
